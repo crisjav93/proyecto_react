@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    align-items: center;
+    background-color: #454139;
+    justify-content: space-between;
+    .navbar-brand{
+        min-height: 0;
+    }
+    .navbar_menu{
+        display: flex;
+        justify-content: center !important;
+    }
+    .navbar_end{
+        margin-left: auto;
+    }
+}
+
